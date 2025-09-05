@@ -1,5 +1,10 @@
 ## Hello World 👋
 
+- I'm currently looking to find an internship.
+- I'm currently thinking about how to find an internship.
+- 
+<img src="./www/public/monkey.webp" alt="monkey" width="200" />
+
 <!--
 **logcho/logcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
