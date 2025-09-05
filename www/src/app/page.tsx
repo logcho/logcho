@@ -66,6 +66,7 @@ export default function Home() {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.8, ease: "easeInOut" }}
           >
+            <h1>A work in progress</h1>
 
             <div className="flex items-center justify-center gap-4">
               <img
