@@ -96,7 +96,7 @@ export default function Home() {
             {/* Contact / Social Icons */}
             <div className="mt-10 flex gap-6">
               <a
-                href="https://github.com/your-username"
+                href="https://github.com/logcho"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-black transition-colors"
@@ -104,7 +104,7 @@ export default function Home() {
                 <Github size={28} />
               </a>
               <a
-                href="https://www.linkedin.com/in/your-linkedin"
+                href="https://www.linkedin.com/in/logcho04"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-[#0A66C2] transition-colors"
@@ -112,13 +112,13 @@ export default function Home() {
                 <Linkedin size={28} />
               </a>
               <a
-                href="mailto:your@email.com"
+                href="mailto:lschoi@smu.edu"
                 className="text-gray-600 hover:text-red-500 transition-colors"
               >
                 <Mail size={28} />
               </a>
               <a
-                href="tel:+1234567890"
+                href="tel:+9722345638"
                 className="text-gray-600 hover:text-green-600 transition-colors"
               >
                 <Phone size={28} />
