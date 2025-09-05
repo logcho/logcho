@@ -79,7 +79,7 @@ export default function Home() {
                 I&apos;m an aspiring software engineer. I&apos;m a student studying
                 Computer Science and Data Science @ SMU. I love creating things
                 that people need. From creating web apps to baking and cooking, I
-                love creating.
+                love making.
               </h1>
             </div>
             
