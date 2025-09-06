@@ -75,11 +75,8 @@ export default function Home() {
                 className="w-32 h-32 md:w-40 md:h-40 rounded-full shadow-lg object-cover"
               />
               <h1 className="max-w-3xl text-xl md:text-2xl font-thin tracking-tight text-justify">
-                
-                I&apos;m an aspiring software engineer. I&apos;m a student studying
-                Computer Science and Data Science @ SMU. I love creating things
-                that people need. From creating web apps to baking and cooking, I
-                love making.
+                I&apos;m a Computer Science and Data Science student at SMU, aspiring to grow into a software engineer. 
+                I enjoy building things people actually find useful—whether that's a web app, or even something as simple as a good meal.
               </h1>
             </div>
             
@@ -99,7 +96,7 @@ export default function Home() {
                 href="https://github.com/logcho"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-gray-600 hover:text-black transition-colors"
+                className="text-black hover:text-gray-600 transition-colors"
               >
                 <Github size={28} />
               </a>
@@ -107,19 +104,19 @@ export default function Home() {
                 href="https://www.linkedin.com/in/logcho04"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-gray-600 hover:text-[#0A66C2] transition-colors"
+                className="text-[#0A66C2] hover:text-gray-600 transition-colors"
               >
                 <Linkedin size={28} />
               </a>
               <a
                 href="mailto:lschoi@smu.edu"
-                className="text-gray-600 hover:text-red-500 transition-colors"
+                className="text-red-500 hover:text-gray-600 transition-colors"
               >
                 <Mail size={28} />
               </a>
               <a
-                href="tel:+9722345638"
-                className="text-gray-600 hover:text-green-600 transition-colors"
+                href="tel:+19722345638"
+                className="text-green-600 hover:text-gray-600 transition-colors"
               >
                 <Phone size={28} />
               </a>
