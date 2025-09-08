@@ -7,11 +7,11 @@ I like making things like this.
 - I'm currently looking to find an internship.
 - I'm currently thinking about how to find an internship.
   
-<img src="./www/public/monkey.webp" alt="monkey" width="200" />
+<!-- <img src="./www/public/monkey.webp" alt="monkey" width="200" /> -->
 
 [Check out my resume](./logan_choi_resume.pdf)
 
-[And check out my web portfolio (no domain for now)](https://logcho.vercel.app/)
+[And check out my web portfolio](https://logcho.vercel.app/)
 
 
 <!--
