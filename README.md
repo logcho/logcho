@@ -9,7 +9,7 @@ I like making things like this.
   
 <!-- <img src="./www/public/monkey.webp" alt="monkey" width="200" /> -->
 
-[Check out my resume](./logan_choi_resume.pdf)
+[Check out my resume](./logan_s_choi_resume.pdf)
 
 [And check out my web portfolio](https://logcho.vercel.app/)
 
