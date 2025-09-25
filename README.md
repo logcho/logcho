@@ -8,16 +8,16 @@ I'm a Computer Science and Data Science student.
 
 <p>
   <a href="https://linkedin.com/in/logcho04">
-    <img src="./img/linkedin-light.svg" alt="LinkedIn" width="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://linkedin.com/in/logcho04">
-    <img src="./img/linkedin-dark.svg" alt="LinkedIn" width="30" style="margin-right: 10px;" />
-  </a>
-  <a href="https://www.instagram.com/lognchoi/">
-    <img src="./img/instagram-light.svg" alt="Instagram" width="30" style="margin-right: 10px;" />
+    <picture>
+      <source srcset="./img/linkedin-dark.svg" media="(prefers-color-scheme: dark)">
+      <img src="./img/linkedin-light.svg" alt="LinkedIn" width="30" style="margin-right: 10px;" />
+    </picture>
   </a>
   <a href="https://www.instagram.com/lognchoi/">
-    <img src="./img/instagram-dark.svg" alt="Instagram" width="30" style="margin-right: 10px;" />
+    <picture>
+      <source srcset="./img/instagram-dark.svg" media="(prefers-color-scheme: dark)">
+      <img src="./img/instagram-light.svg" alt="Instagram" width="30" style="margin-right: 10px;" />
+    </picture>
   </a>
 </p>
 
@@ -38,6 +38,10 @@ I'm a Computer Science and Data Science student.
   <a href="[gitwebsite]"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="26" style="margin-right: 10px;" /></a>
   <a href="[cmake]"><img src="./img/cmake.svg" alt="CMake" width="26" style="margin-right: 10px;" /></a>
   <a href="[github]"><img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="GitHub" width="26" style="margin-right: 10px;" /></a>
-  <a href="[terminal]"><img src="./img/terminal-light.svg" alt="Terminal" width="26" style="margin-right: 10px;" /></a>
-  <a href="[terminal]"><img src="./img/terminal-dark.svg" alt="Terminal" width="26" style="margin-right: 10px;" /></a>
+  <a href="[terminal]">
+    <picture>
+      <source srcset="./img/terminal-dark.svg" media="(prefers-color-scheme: dark)">
+      <img src="./img/terminal-light.svg" alt="Terminal" width="26" style="margin-right: 10px;" />
+    </picture>
+  </a>
 </p>
