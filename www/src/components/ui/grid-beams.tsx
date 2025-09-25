@@ -112,6 +112,10 @@ const LightRay = React.memo<LightRayProps>(
   }
 )
 
+// ✅ Add display name to satisfy ESLint
+LightRay.displayName = "LightRay"
+
+
 export const GridBeams: React.FC<GridBeamsProps> = ({
   children,
   className,

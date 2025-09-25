@@ -2,7 +2,7 @@
 
 import { Dock, DockIcon } from "@/components/ui/dock"
 import React from "react"
-import { Github, Linkedin, Home, Mail, SunMoon } from "lucide-react"
+import { Github, Linkedin, Home, Mail } from "lucide-react"
 import { AnimatedThemeToggler } from "@/components/ui/animated-theme-toggler"
 import { Separator } from "@/components/ui/separator"
 

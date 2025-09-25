@@ -2,7 +2,6 @@
 
 import React from "react"
 import { BoxReveal } from "@/components/ui/box-reveal"
-import { Button } from "@/components/ui/button"
 import { RainbowButton } from "@/components/ui/rainbow-button"
 
 export default function Main() {
@@ -11,13 +10,13 @@ export default function Main() {
       
       {/* Name Reveal */}
       <BoxReveal boxColor="#5046e6" duration={0.5}>
-        <h1 className="text-5xl font-bold mb-4">Hi, I'm Logan Choi</h1>
+        <h1 className="text-5xl font-bold mb-4">Hi, I&apos;m Logan Choi</h1>
       </BoxReveal>
 
       {/* Summary Reveal */}
       <BoxReveal boxColor="#5046e6" duration={0.5}>
         <p className="text-xl max-w-xl mb-4">
-          I'm a software developer who enjoys coding—frontend, backend, full-stack, and exploring new technologies like blockchain or AI.
+          I&apos;m a software developer who enjoys coding—frontend, backend, full-stack, and exploring new technologies like blockchain or AI.
         </p>
       </BoxReveal>
 
