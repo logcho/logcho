@@ -26,7 +26,7 @@ export function Dashboard() {
 
         {/* Homepage */}
         <DockIcon>
-          <a href="https://YOUR_WEBSITE.com" target="_blank" rel="noopener noreferrer">
+          <a href="#" target="_blank" rel="noopener noreferrer">
             <Home className="w-6 h-6" />
           </a>
         </DockIcon>

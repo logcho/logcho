@@ -23,10 +23,11 @@ export default function Main() {
 
       {/* Optional Button Reveal */}
       <BoxReveal boxColor="#5046e6" duration={0.5}>
-        <RainbowButton>
+        <a href="https://github.com/logcho" target="_blank" rel="noopener noreferrer">
+          <RainbowButton>
             Explore my work
-        </RainbowButton>
-
+          </RainbowButton>
+        </a>
       </BoxReveal>
 
     </div>
