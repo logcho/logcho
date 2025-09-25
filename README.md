@@ -6,59 +6,38 @@ I'm a Computer Science and Data Science student.
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/logcho04)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/logcho04)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/lognchoi/)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/lognchoi/)
+<p>
+  <a href="https://linkedin.com/in/logcho04">
+    <img src="./img/linkedin-light.svg" alt="LinkedIn" width="30" style="margin-right: 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/logcho04">
+    <img src="./img/linkedin-dark.svg" alt="LinkedIn" width="30" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/lognchoi/">
+    <img src="./img/instagram-light.svg" alt="Instagram" width="30" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.instagram.com/lognchoi/">
+    <img src="./img/instagram-dark.svg" alt="Instagram" width="30" style="margin-right: 10px;" />
+  </a>
+</p>
 
-  
-<!-- <img src="./www/public/monkey.webp" alt="monkey" width="200" /> -->
-
-[Check out my resume](./logan_s_choi_resume.pdf)
+[Check out my resume](./logan_s_choi_resume.pdf)  
 
 [And check out my web portfolio](https://logcho.vercel.app/)
 
 ### Languages and Tools:
 
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />][cpluspluswebsite]
-
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][pythonwebsite]
-
-[<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />][javawebsite]
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][vscode]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jswebsite]
-
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][react]
-
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][node]
-
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][gitwebsite]
-
-[<img align="left" alt="cmake" width="26px" src="./img/cmake.svg" />][cmake]
-
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />][github]
-
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />][terminal]
-
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />][terminal]
-
-
-
-<!--
-**logcho/logcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="[cpluspluswebsite]"><img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="C++" width="26" style="margin-right: 10px;" /></a>
+  <a href="[pythonwebsite]"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="26" style="margin-right: 10px;" /></a>
+  <a href="[javawebsite]"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="26" style="margin-right: 10px;" /></a>
+  <a href="[vscode]"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="26" style="margin-right: 10px;" /></a>
+  <a href="[jswebsite]"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="26" style="margin-right: 10px;" /></a>
+  <a href="[react]"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="26" style="margin-right: 10px;" /></a>
+  <a href="[node]"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="26" style="margin-right: 10px;" /></a>
+  <a href="[gitwebsite]"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="26" style="margin-right: 10px;" /></a>
+  <a href="[cmake]"><img src="./img/cmake.svg" alt="CMake" width="26" style="margin-right: 10px;" /></a>
+  <a href="[github]"><img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" alt="GitHub" width="26" style="margin-right: 10px;" /></a>
+  <a href="[terminal]"><img src="./img/terminal-light.svg" alt="Terminal" width="26" style="margin-right: 10px;" /></a>
+  <a href="[terminal]"><img src="./img/terminal-dark.svg" alt="Terminal" width="26" style="margin-right: 10px;" /></a>
+</p>
