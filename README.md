@@ -23,7 +23,6 @@ I'm a Computer Science and Data Science student.
 
 [Check out my resume](./logan_s_choi_resume.pdf)  
 
-    <!---[And check out my web portfolio](https://logcho.vercel.app/)-->
 
 ### Languages and Tools:
 
