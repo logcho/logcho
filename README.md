@@ -21,7 +21,7 @@ I'm a Computer Science and Data Science student.
   </a>
 </p>
 
-[Check out my resume](./logan_s_choi_resume.pdf)  
+[Check out my resume](./choi_logan.pdf)  
 
 
 ### Languages and Tools:
