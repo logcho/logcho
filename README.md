@@ -1,8 +1,8 @@
 ## Hello World 👋
 
-I'm a Computer Science and Data Science student. 
+I'm a Computer Science and Data Science senior at Southern Methodist University, graduating May 2027.
 
-- I'm currently looking to find an internship.
+- I'm currently looking for a new grad software engineering role.
 
 ### Connect with me:
 
@@ -22,6 +22,8 @@ I'm a Computer Science and Data Science student.
 </p>
 
 [Check out my resume](./choi_logan.pdf)  
+
+[And check out my web portfolio](https://logcho.vercel.app/)
 
 
 ### Languages and Tools:
